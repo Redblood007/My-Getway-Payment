@@ -1,2 +1,2 @@
-# mypaytm
-mypaytm
+# my getway payment
+mygetwaypayment
